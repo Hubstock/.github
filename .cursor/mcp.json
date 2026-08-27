@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gupy-candidates-mcp": {
+      "url": "https://candidates.mcp.api.gupy.io/mcp",
+      "type": "http"
+    }
+  }
+}
